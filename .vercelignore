@@ -1,0 +1,4 @@
+# Arquivos de apoio que ficam no repositório, mas NÃO vão para o site público
+*.ps1
+COMO-ADICIONAR-ARTIGOS.md
+capas/LEIA-ME.txt

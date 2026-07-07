@@ -1,0 +1,15 @@
+CAPAS DOS ARTIGOS
+=================
+
+As 3 capas atuais já estão nesta pasta, otimizadas (JPG, 1024px de largura):
+  - noruega.jpg          -> "A Noruega não venceu o Brasil nas oitavas..."
+  - game-impacto.jpg     -> "Do Game ao Impacto..."
+  - quadra-servidor.jpg  -> "Da quadra ao servidor..."
+
+PARA TROCAR OU ADICIONAR UMA CAPA
+- Coloque a imagem nesta pasta e aponte para ela no artigos.json,
+  no campo "url_imagem_capa", ex.: "capas/meu-artigo.jpg".
+- Formato ideal: proporção 16:9 (ex.: 1280x720 ou 1024x576).
+- Se a imagem ficar muito pesada (acima de ~300 KB), me peça para otimizar.
+- As capas aparecem em preto e branco e ganham cor quando o mouse passa por cima.
+- Se o arquivo apontado não existir, o card simplesmente aparece sem capa (sem erro).
